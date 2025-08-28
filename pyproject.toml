@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gmail-trainshare"
+version = "0.1.0"
+description = "Auto-share Gmail messages labeled 'Training Exercise' across a team"
+requires-python = ">=3.9,<3.10"
+dependencies = []
+
